@@ -1,0 +1,35 @@
+═══════════════════════════════════════════════════════════════
+                    DEPLOY PRONTO PARA HOSTINGER
+═══════════════════════════════════════════════════════════════
+
+✅ Build de produção criado com sucesso!
+
+📁 PASTA PARA UPLOAD: frontend/dist/
+
+📋 O QUE FAZER:
+
+1. Acesse: hpanel.hostinger.com
+2. Vá em "Gerenciador de Arquivos"
+3. Entre na pasta "public_html"
+4. Delete todos os arquivos existentes
+5. Faça upload de TODOS os arquivos da pasta "frontend/dist/"
+
+   Arquivos que serão enviados:
+   ✓ index.html
+   ✓ .htaccess (importante para rotas funcionarem!)
+   ✓ assets/ (pasta completa com imagens, CSS e JS)
+   ✓ favicon.png
+   ✓ favicon.jpg
+   ✓ hero-image.jpg
+   ✓ hero-video.mp4
+   ✓ vite.svg
+
+6. Acesse seu domínio e teste!
+
+═══════════════════════════════════════════════════════════════
+
+💡 DICA: Mantenha a estrutura de pastas exatamente como está!
+
+📖 Para instruções detalhadas, consulte: DEPLOY-HOSTINGER.md
+
+═══════════════════════════════════════════════════════════════

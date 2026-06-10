@@ -14,7 +14,7 @@
 #### 1. Registro A (Domínio Principal)
 - **Tipo**: A
 - **Host**: @
-- **Valor**: 76.76.21.21
+- **Valor**: 216.198.79.1
 - **TTL**: 3600 (ou padrão do registrador)
 
 #### 2. Registro CNAME (Subdomínio www)
@@ -39,7 +39,7 @@ Se o domínio estiver registrado no Registro.br:
 **Registro A:**
 - Host: `@`
 - Tipo: `A`
-- Endereço IP: `76.76.21.21`
+- Endereço IP: `216.198.79.1`
 
 **Registro CNAME:**
 - Host: `www`

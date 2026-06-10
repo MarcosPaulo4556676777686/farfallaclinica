@@ -93,7 +93,7 @@ const Footer = () => {
               &copy; {currentYear} Farfalla Clínica Estética. Todos os direitos reservados.
             </p>
             <p className="footer-credits">
-              Feito com <FaHeart className="heart-icon" /> para você
+              Desenvolvido por <a href="https://www.instagram.com/codelinkbr__/?hl=pt-br" target="_blank" rel="noopener noreferrer">Codelink</a> - <a href="tel:+5527998127224">(27) 99812-7224</a>
             </p>
           </div>
         </div>

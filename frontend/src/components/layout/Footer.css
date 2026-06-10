@@ -162,6 +162,15 @@
   flex-wrap: wrap;
   gap: 1rem;
   width: 100%;
+  position: relative;
+}
+
+.footer-bottom-content > p:first-child {
+  flex: 1;
+}
+
+.footer-bottom-content > p:last-child {
+  flex: 0 0 auto;
 }
 
 .footer-bottom p {
@@ -200,6 +209,20 @@
   .footer-bottom-content {
     flex-direction: column;
     text-align: center;
+    gap: 0.5rem;
+  }
+
+  .footer-bottom-content > p:first-child {
+    flex: none;
+  }
+
+  .footer-bottom-content > p:last-child {
+    flex: none;
+  }
+
+  .footer-credits {
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
   .footer-main {
